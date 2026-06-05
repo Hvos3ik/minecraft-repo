@@ -1,0 +1,561 @@
+{
+  "name": "My Server Pack",
+  "version": "1.0.0",
+  "minecraftVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.227",
+  "mods": [
+        {
+          "name": "alexsmobs-1.22.17.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/alexsmobs-1.22.17.jar"
+        },
+        {
+          "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/appleskin-neoforge-mc1.21-3.0.9.jar"
+        },
+        {
+          "name": "architectury-13.0.8-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/architectury-13.0.8-neoforge.jar"
+        },
+        {
+          "name": "artifacts-neoforge-13.2.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/artifacts-neoforge-13.2.1.jar"
+        },
+        {
+          "name": "athena-neoforge-1.21.1-4.0.6.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/athena-neoforge-1.21.1-4.0.6.jar"
+        },
+        {
+          "name": "BadOptimizations-2.4.1-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+          "name": "balm-neoforge-1.21.1-21.0.56.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/balm-neoforge-1.21.1-21.0.56.jar"
+        },
+        {
+          "name": "betterchunkloading-1.21-5.4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/betterchunkloading-1.21-5.4.jar"
+        },
+        {
+          "name": "betterfpsdist-1.21-6.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/betterfpsdist-1.21-6.0.jar"
+        },
+        {
+          "name": "big_cannons_aeronautics_fix-0.1-Alpha.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/big_cannons_aeronautics_fix-0.1-Alpha.jar"
+        },
+        {
+          "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
+        },
+        {
+          "name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/bookshelf-neoforge-1.21.1-21.1.81.jar"
+        },
+        {
+          "name": "buildinggadgets2-1.3.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/buildinggadgets2-1.3.9.jar"
+        },
+        {
+          "name": "chunksending-1.21-2.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/chunksending-1.21-2.9.jar"
+        },
+        {
+          "name": "citadel-1.21.1-2.7.6.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/citadel-1.21.1-2.7.6.jar"
+        },
+        {
+          "name": "classical_music_disc-0.2-neoforge-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/classical_music_disc-0.2-neoforge-1.21.1.jar"
+        },
+        {
+          "name": "cloth-config-15.0.140-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/cloth-config-15.0.140-neoforge.jar"
+        },
+        {
+          "name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+        },
+        {
+          "name": "Controlling-neoforge-1.21.1-19.0.5.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/Controlling-neoforge-1.21.1-19.0.5.jar"
+        },
+        {
+          "name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+        },
+        {
+          "name": "coroutil-neoforge-1.21.0-1.3.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/coroutil-neoforge-1.21.0-1.3.9.jar"
+        },
+        {
+          "name": "corpse-neoforge-1.21.1-1.1.13.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/corpse-neoforge-1.21.1-1.1.13.jar"
+        },
+        {
+          "name": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
+        },
+        {
+          "name": "create-1.21.1-6.0.10.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/create-1.21.1-6.0.10.jar"
+        },
+        {
+          "name": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+        },
+        {
+          "name": "create-enchantment-industry-2.3.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/create-enchantment-industry-2.3.1.jar"
+        },
+        {
+          "name": "create-stuff-additions1.21.1_v2.1.3.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/create-stuff-additions1.21.1_v2.1.3.jar"
+        },
+        {
+          "name": "createaddition-1.5.10.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createaddition-1.5.10.jar"
+        },
+        {
+          "name": "createbetterfps-1.21.1-1.1.4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createbetterfps-1.21.1-1.1.4.jar"
+        },
+        {
+          "name": "createbigcannons-5.11.3-mc.1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createbigcannons-5.11.3-mc.1.21.1.jar"
+        },
+        {
+          "name": "createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createcobblestone-1.4.9+neoforge-1.21.1-130.jar"
+        },
+        {
+          "name": "createdeco-2.1.3.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createdeco-2.1.3.jar"
+        },
+        {
+          "name": "createdieselgenerators-1.21.1-1.3.12.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createdieselgenerators-1.21.1-1.3.12.jar"
+        },
+        {
+          "name": "CreateDragonsPlus-1.10.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/CreateDragonsPlus-1.10.1.jar"
+        },
+        {
+          "name": "createliquidfuel-2.1.1-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createliquidfuel-2.1.1-1.21.1.jar"
+        },
+        {
+          "name": "createnuclear-1.3.2-beta.3-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/createnuclear-1.3.2-beta.3-neoforge.jar"
+        },
+        {
+          "name": "CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/CreateNumismatics-1.0.19integration+neoforge-mc1.21.1.jar"
+        },
+        {
+          "name": "create_connected-1.1.16-mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/create_connected-1.1.16-mc1.21.1.jar"
+        },
+        {
+          "name": "create_winery-2.0.2-neoforge-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/create_winery-2.0.2-neoforge-1.21.1.jar"
+        },
+        {
+          "name": "Cucumber-1.21.1-8.0.16.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/Cucumber-1.21.1-8.0.16.jar"
+        },
+        {
+          "name": "cupboard-1.21-3.5.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/cupboard-1.21-3.5.jar"
+        },
+        {
+          "name": "curios-neoforge-9.5.1+1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/curios-neoforge-9.5.1+1.21.1.jar"
+        },
+        {
+          "name": "CutThrough-v21.1.0-1.21.1-NeoForge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
+        },
+        {
+          "name": "darkpaintings-neoforge-1.21.1-21.1.7.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/darkpaintings-neoforge-1.21.1-21.1.7.jar"
+        },
+        {
+          "name": "dummmmmmy-1.21-2.0.12-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/dummmmmmy-1.21-2.0.12-neoforge.jar"
+        },
+        {
+          "name": "dynamiclights-1.21.1.2NF.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/dynamiclights-1.21.1.2NF.jar"
+        },
+        {
+          "name": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/easy-villagers-neoforge-1.21.1-1.1.42.jar"
+        },
+        {
+          "name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/enchdesc-neoforge-1.21.1-21.1.9.jar"
+        },
+        {
+          "name": "enderio-8.2.10-beta.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/enderio-8.2.10-beta.jar"
+        },
+        {
+          "name": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/entityculling-neoforge-1.10.2-mc1.21.1.jar"
+        },
+        {
+          "name": "etched-5.0.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/etched-5.0.0.jar"
+        },
+        {
+          "name": "FarmersDelight-1.21.1-1.3.2.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/FarmersDelight-1.21.1-1.3.2.jar"
+        },
+        {
+          "name": "ferritecore-7.0.3-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ferritecore-7.0.3-neoforge.jar"
+        },
+        {
+          "name": "FluxNetworks-1.21.1-8.0.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/FluxNetworks-1.21.1-8.0.0.jar"
+        },
+        {
+          "name": "framework-neoforge-1.21.1-0.13.11.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/framework-neoforge-1.21.1-0.13.11.jar"
+        },
+        {
+          "name": "ftb-chunks-neoforge-2101.1.14.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-chunks-neoforge-2101.1.14.jar"
+        },
+        {
+          "name": "ftb-essentials-neoforge-2101.1.9.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-essentials-neoforge-2101.1.9.jar"
+        },
+        {
+          "name": "ftb-library-neoforge-2101.1.31.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-library-neoforge-2101.1.31.jar"
+        },
+        {
+          "name": "ftb-quests-neoforge-2101.1.24.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-quests-neoforge-2101.1.24.jar"
+        },
+        {
+          "name": "ftb-teams-neoforge-2101.1.10.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-teams-neoforge-2101.1.10.jar"
+        },
+        {
+          "name": "ftb-ultimine-neoforge-2101.1.14.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-ultimine-neoforge-2101.1.14.jar"
+        },
+        {
+          "name": "ftb-xmod-compat-neoforge-21.1.8.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ftb-xmod-compat-neoforge-21.1.8.jar"
+        },
+        {
+          "name": "fusion-1.2.12-neoforge-mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/fusion-1.2.12-neoforge-mc1.21.1.jar"
+        },
+        {
+          "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/geckolib-neoforge-1.21.1-4.8.4.jar"
+        },
+        {
+          "name": "generatorgalore-1.21.1-1.6.3.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/generatorgalore-1.21.1-1.6.3.jar"
+        },
+        {
+          "name": "gliders-1.21.1-neoforge-1.1.8.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/gliders-1.21.1-neoforge-1.1.8.jar"
+        },
+        {
+          "name": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+        },
+        {
+          "name": "gpumemleakfix-1.21-1.8.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/gpumemleakfix-1.21-1.8.jar"
+        },
+        {
+          "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
+        },
+        {
+          "name": "interiors-1.21.1-neoforge-0.6.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/interiors-1.21.1-neoforge-0.6.1.jar"
+        },
+        {
+          "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/iris-neoforge-1.8.12+mc1.21.1.jar"
+        },
+        {
+          "name": "IronJetpacks-1.21.1-8.0.11.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/IronJetpacks-1.21.1-8.0.11.jar"
+        },
+        {
+          "name": "Jade-1.21.1-NeoForge-15.10.5.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/Jade-1.21.1-NeoForge-15.10.5.jar"
+        },
+        {
+          "name": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+        },
+        {
+          "name": "jei-1.21.1-neoforge-19.27.0.336.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/jei-1.21.1-neoforge-19.27.0.336.jar"
+        },
+        {
+          "name": "justdirethings-1.5.7.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/justdirethings-1.5.7.jar"
+        },
+        {
+          "name": "kotlinforforge-5.11.0-all.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/kotlinforforge-5.11.0-all.jar"
+        },
+        {
+          "name": "lithostitched-1.7.7-neoforge-21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/lithostitched-1.7.7-neoforge-21.1.jar"
+        },
+        {
+          "name": "lootintegrations-1.21.1-4.7.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/lootintegrations-1.21.1-4.7.jar"
+        },
+        {
+          "name": "lootr-neoforge-1.21.1-1.11.37.120.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/lootr-neoforge-1.21.1-1.11.37.120.jar"
+        },
+        {
+          "name": "memorysettings-1.21-6.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/memorysettings-1.21-6.0.jar"
+        },
+        {
+          "name": "mob_grinding_utils-1.1.10+mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/mob_grinding_utils-1.1.10+mc1.21.1.jar"
+        },
+        {
+          "name": "MoogsVoyagerStructures-1.21-5.0.11.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/MoogsVoyagerStructures-1.21-5.0.11.jar"
+        },
+        {
+          "name": "moogs_structures-neoforge-1.21.1-2.0.2.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/moogs_structures-neoforge-1.21.1-2.0.2.jar"
+        },
+        {
+          "name": "moonlight-neoforge-1.21.1-3.0.14.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/moonlight-neoforge-1.21.1-3.0.14.jar"
+        },
+        {
+          "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+        },
+        {
+          "name": "MysticalAgriculture-1.21.1-8.0.26.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/MysticalAgriculture-1.21.1-8.0.26.jar"
+        },
+        {
+          "name": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+        },
+        {
+          "name": "notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/notenoughcrashes-neoforge-4.4.9+1.21.1.jar"
+        },
+        {
+          "name": "observable-5.4.4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/observable-5.4.4.jar"
+        },
+        {
+          "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+        },
+        {
+          "name": "oritech-neoforge-1.21.1-1.2.6.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/oritech-neoforge-1.21.1-1.2.6.jar"
+        },
+        {
+          "name": "Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+        },
+        {
+          "name": "powergrid-mc1.21.1-0.5.5.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/powergrid-mc1.21.1-0.5.5.1.jar"
+        },
+        {
+          "name": "prickle-neoforge-1.21.1-21.1.11.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/prickle-neoforge-1.21.1-21.1.11.jar"
+        },
+        {
+          "name": "ProjectE-1.21.1-PE1.1.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ProjectE-1.21.1-PE1.1.0.jar"
+        },
+        {
+          "name": "projectexpansion-1.21.1-1.0.6.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/projectexpansion-1.21.1-1.0.6.jar"
+        },
+        {
+          "name": "PuzzlesLib-v21.1.44-1.21.1-NeoForge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/PuzzlesLib-v21.1.44-1.21.1-NeoForge.jar"
+        },
+        {
+          "name": "rarcompat-1.21-0.9.7.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/rarcompat-1.21-0.9.7.jar"
+        },
+        {
+          "name": "rechiseled-1.2.4-neoforge-mc1.21.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/rechiseled-1.2.4-neoforge-mc1.21.jar"
+        },
+        {
+          "name": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/rechiseledcreate-1.1.0-neoforge-mc1.21.jar"
+        },
+        {
+          "name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
+        },
+        {
+          "name": "refinedstorage-neoforge-2.0.8.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/refinedstorage-neoforge-2.0.8.jar"
+        },
+        {
+          "name": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+        },
+        {
+          "name": "relics-1.21.1-0.10.7.8.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/relics-1.21.1-0.10.7.8.jar"
+        },
+        {
+          "name": "relicsofrain-0.3.1+1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/relicsofrain-0.3.1+1.21.1.jar"
+        },
+        {
+          "name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+        },
+        {
+          "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/resourcefullib-neoforge-1.21-3.0.12.jar"
+        },
+        {
+          "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
+        },
+        {
+          "name": "sable-neoforge-1.21.1-1.2.2.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sable-neoforge-1.21.1-1.2.2.jar"
+        },
+        {
+          "name": "SableStuffAdditionsCompat v1.0.1-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/SableStuffAdditionsCompat v1.0.1-1.21.1.jar"
+        },
+        {
+          "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/Searchables-neoforge-1.21.1-1.0.2.jar"
+        },
+        {
+          "name": "simplylight-1.5.3+1.21.1-b4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/simplylight-1.5.3+1.21.1-b4.jar"
+        },
+        {
+          "name": "skinrestorer-2.7.0+1.21-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/skinrestorer-2.7.0+1.21-neoforge.jar"
+        },
+        {
+          "name": "sliceanddice-forge-4.2.4.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sliceanddice-forge-4.2.4.jar"
+        },
+        {
+          "name": "smoothchunk-1.21-4.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/smoothchunk-1.21-4.1.jar"
+        },
+        {
+          "name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sodium-neoforge-0.6.13+mc1.21.1.jar"
+        },
+        {
+          "name": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sodiumextras-neoforge-1.0.8-1.21.1.jar"
+        },
+        {
+          "name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+        },
+        {
+          "name": "sophisticatedbackpacks-1.21.1-3.25.49.1768.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sophisticatedbackpacks-1.21.1-3.25.49.1768.jar"
+        },
+        {
+          "name": "sophisticatedcore-1.21.1-1.4.41.1867.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sophisticatedcore-1.21.1-1.4.41.1867.jar"
+        },
+        {
+          "name": "sophisticatedstorage-1.21.1-1.5.50.1740.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sophisticatedstorage-1.21.1-1.5.50.1740.jar"
+        },
+        {
+          "name": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
+        },
+        {
+          "name": "spark-1.10.124-neoforge.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/spark-1.10.124-neoforge.jar"
+        },
+        {
+          "name": "starcatcher-2.3.9-NEOFORGE-1.21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/starcatcher-2.3.9-NEOFORGE-1.21.1.jar"
+        },
+        {
+          "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+        },
+        {
+          "name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+        },
+        {
+          "name": "supplementaries-neoforge-1.21.1-3.6.5.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/supplementaries-neoforge-1.21.1-3.6.5.jar"
+        },
+        {
+          "name": "tectonic-3.0.22-neoforge-21.1.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/tectonic-3.0.22-neoforge-21.1.jar"
+        },
+        {
+          "name": "tempad-1.21.1-3.0.4-all.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/tempad-1.21.1-3.0.4-all.jar"
+        },
+        {
+          "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+        },
+        {
+          "name": "tfmg-1.2.0.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/tfmg-1.2.0.jar"
+        },
+        {
+          "name": "vista-neoforge-1.21.1-4.4.5.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/vista-neoforge-1.21.1-4.4.5.jar"
+        },
+        {
+          "name": "voicechat-neoforge-1.21.1-2.6.17.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/voicechat-neoforge-1.21.1-2.6.17.jar"
+        },
+        {
+          "name": "watut-neoforge-1.21.0-1.2.7.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/watut-neoforge-1.21.0-1.2.7.jar"
+        },
+        {
+          "name": "waystones-neoforge-1.21.1-21.1.33.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/waystones-neoforge-1.21.1-21.1.33.jar"
+        },
+        {
+          "name": "xaerominimap-neoforge-1.21.1-25.3.13.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/xaerominimap-neoforge-1.21.1-25.3.13.jar"
+        },
+        {
+          "name": "xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+          "url": "https://hvos3ik.github.io/minecraft-repo/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+        }
+  ]
+}
