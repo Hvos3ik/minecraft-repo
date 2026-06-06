@@ -1,0 +1,13 @@
+name = "EternaPack"
+author = "Hvos3ik"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac25ba6297721bb3033e1c346cfd0a7a37d27a81c6753676d71f52e11359193c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
